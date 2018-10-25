@@ -1,0 +1,2 @@
+model_checkpoint_path: "B:\\unrealcontrol\\DDPG\\data/1\\model"
+all_model_checkpoint_paths: "B:\\unrealcontrol\\DDPG\\data/1\\model"
